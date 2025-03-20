@@ -9,7 +9,7 @@ public record SerieDTO(
         Double avaliacao,
         Categoria genero,
         String atores,
-        String posters,
+        String poster,
         String sinopse
 ) {
 }
